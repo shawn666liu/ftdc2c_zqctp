@@ -1,4 +1,4 @@
-## Ftdc2c_ctp
+## Ftdc2c_zqctp
 
 Pure C interface for CTP2 (兴业证券CTP2)
 
